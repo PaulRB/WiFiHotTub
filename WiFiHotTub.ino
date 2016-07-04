@@ -22,8 +22,8 @@ int solarOn = LOW;
 unsigned long lastCheckTime;
 unsigned long lastUpdateTime;
 
-const char ssid[] = "granary";
-const char password[] = "sparkym00se";
+const char ssid[] = "SSID";
+const char password[] = "PASSWORD";
 char myhostname[] = "HotTub";
 
 WiFiServer server(80);
